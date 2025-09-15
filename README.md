@@ -10,6 +10,11 @@ A fully serverless, event-driven content moderation API built on AWS. This proje
 
 This project is built on a decoupled, event-driven architecture that is highly scalable and resilient.
 
+<p align="center">
+  <img src="./static/Arch.png" alt="Serverless Content Moderation Architecture">
+</p>
+
+
 
 
 **Workflow:**
